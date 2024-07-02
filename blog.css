@@ -1,0 +1,14 @@
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.second{
+    display: none;
+}
+.header{
+    height: 300px;
+    width:1000px;
+    background-image: url(/elden-ring-godfrey-7qboqkxbejceaz49.jpg);
+background-size: contain;
+background-repeat: no repeat;
+}
